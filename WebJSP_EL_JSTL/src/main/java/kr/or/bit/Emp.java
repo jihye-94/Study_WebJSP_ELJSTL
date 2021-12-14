@@ -5,6 +5,7 @@ public class Emp {
 	private String ename;
 	
 	
+	
 	public Emp() {}
 	
 	public Emp(int empno, String ename) {
